@@ -5,5 +5,10 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
+  },
+  "scripts": {
+    "tugas2": "node \"Tugas 2/type.js\"",
+    "tugas3": "node \"Tugas 3/conditional.js\"",
+    "tugas4": "node \"Tugas 4/looping.js\""
   }
 }
